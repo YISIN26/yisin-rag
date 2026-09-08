@@ -1,0 +1,89 @@
+RÉPUBLIQUE DU SÉNÉGAL
+
+MINISTÈRE DE L'ÉCONOMIE, DES FINANCES ET DE LA PLANIFICATION
+
+LOI N° 2022-14 du 15 février 2022
+
+Portant Code des postes et télécommunications
+
+L'Assemblée nationale a adopté, en sa séance du mardi 18 janvier 2022,
+
+Le Président de la République promulgue la loi dont la teneur suit :
+
+TITRE PREMIER
+
+DISPOSITIONS GÉNÉRALES
+
+CHAPITRE PREMIER
+
+OBJET ET CHAMP D'APPLICATION
+
+Article 1er. - La présente loi a pour objet de définir le cadre institutionnel et réglementaire des activités de poste et de télécommunications au Sénégal.
+
+Article 2. - Les dispositions de la présente loi s'appliquent à toute personne physique ou morale publique ou privée, qui exerce une activité de poste ou de télécommunications au Sénégal.
+
+Article 3. - Au sens de la présente loi, on entend par :
+
+1° Administration des postes : l'organe de l'État chargé de la régulation du secteur postal ;
+
+2° Autorité de régulation : l'Autorité de régulation des télécommunications et des postes (ARTP) ;
+
+3° Câble sous-marin : tout câble de télécommunications posé sur ou sous le fond de la mer ou des eaux intérieures ;
+
+4° Commutation : l'acheminement des communications téléphoniques entre deux terminaux quelconques d'un réseau de télécommunications ;
+
+5° Courrier électronique : tout service permettant l'échange de messages via des réseaux de télécommunications ;
+
+6° Données de trafic : toutes les données traitées aux fins de l'acheminement d'une communication par un réseau de télécommunications ;
+
+7° Données relatives à la localisation : toutes les données traitées dans un réseau de télécommunications ou par un service de communication électronique indiquant la position géographique de l'équipement terminal d'un utilisateur ;
+
+8° Équipement terminal : tout équipement directement ou indirectement connecté à un réseau de télécommunications et destiné à envoyer, traiter ou recevoir des communications ;
+
+9° Exploitant de câble sous-marin : toute personne physique ou morale qui construit, exploite ou gère un câble sous-marin ;
+
+10° Faisceau hertzien : tout système de transmission par ondes radioélectriques entre deux points fixes situés à la surface de la terre ;
+
+11° Fréquences radioélectriques : les ondes électromagnétiques dont la fréquence est inférieure à 3000 GHz, se propageant dans l'espace sans guide artificiel ;
+
+12° Gestionnaire de réseau : toute personne physique ou morale chargée de l'exploitation d'un réseau de télécommunications ;
+
+13° Infrastructure partagée : toute infrastructure de télécommunications utilisée conjointement par plusieurs opérateurs ;
+
+14° Interconnexion : la liaison physique et logique des réseaux de télécommunications permettant aux utilisateurs d'un réseau de communiquer avec ceux d'un autre réseau ;
+
+15° Itinérance : la capacité d'un utilisateur d'un réseau de télécommunications mobile à accéder automatiquement aux services d'un autre réseau mobile lorsqu'il se trouve dans une zone non couverte par son réseau ;
+
+16° Licences : les autorisations accordées par l'État pour l'exercice des activités de télécommunications ;
+
+17° Messagerie électronique : tout service de gestion et de stockage de courriers électroniques ;
+
+18° Mobile : tout équipement terminal de télécommunications capable de se déplacer et de changer de point d'attache dans un réseau de télécommunications ;
+
+19° Network Access Point (NAP) : point d'accès au réseau Internet ;
+
+20° Opérateur : toute personne physique ou morale autorisée à exercer une activité de télécommunications ;
+
+21° Poste : toute activité de collecte, de traitement, de transport et de distribution de courriers et d'objets ;
+
+22° Radiocommunication : toute télécommunication réalisée par ondes radioélectriques ;
+
+23° Réseau de télécommunications : tout ensemble de moyens de transmission et de commutation permettant l'acheminement de communications entre terminaux ;
+
+24° Réseau ouvert : tout réseau de télécommunications ouvert au public ;
+
+25° Service postal : tout service de collecte, de traitement, de transport et de distribution de courriers et d'objets ;
+
+26° Service universel : l'ensemble des services de télécommunications qui doivent être fournis à tous les utilisateurs à un prix abordable ;
+
+27° Service de valeur ajoutée : tout service de télécommunications qui utilise un réseau de télécommunications pour fournir des services spécifiques ;
+
+28° Station terrienne : toute station terrestre équipée pour émettre et/ou recevoir des ondes radioélectriques par l'intermédiaire d'un satellite ;
+
+29° Télécommunications : toute transmission, émission ou réception de signes, de signaux, d'écrits, d'images, de sons ou d'informations de toute nature par fil, radioélectricité, optique ou autres systèmes électromagnétiques ;
+
+30° Terminal mobile : tout équipement terminal de télécommunications capable de se déplacer et de changer de point d'attache dans un réseau de télécommunications mobile ;
+
+31° Utilisateur : toute personne physique ou morale qui utilise les services de télécommunications ;
+
+32° Valeur ajoutée : services qui utilisent les réseaux de télécommunications pour fournir des services spécifiques aux utilisateurs.

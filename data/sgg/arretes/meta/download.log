@@ -1,0 +1,8 @@
+[2026-09-04 22:00:00] INFO - Début du téléchargement
+[2026-09-04 22:00:01] SKIP - arrete-2018-002.pdf (423 Ko) - déjà présent
+[2026-09-04 22:00:02] SKIP - arrete-2018-001.pdf (586 Ko) - déjà présent
+[2026-09-04 22:00:03] Résumé: 0 OK, 0 ERROR, 2 SKIP sur 2 total
+[2026-09-04 22:00:04] INFO - Fin du téléchargement
+[2026-09-04 22:23:36] OK - arrete-2018-002.pdf (423 Ko) - téléchargé (0.4 Mo)
+[2026-09-04 22:23:38] OK - arrete-2018-001.pdf (586 Ko) - téléchargé (0.6 Mo)
+[2026-09-04 22:23:38] Résumé: 2 OK, 0 ERROR, 0 SKIP sur 2 total

@@ -1,0 +1,51 @@
+(Aplahoué, Djàkotomè, Klouékamey) nombre de sièges : 03
+
+12 - Douzième circonscription électorale
+(Dogbo, Lalo, Toviklin) nombre de siège : 03
+
+13 - Treizième circonscription électorale
+(Djougou) nombre de siège : 02
+
+14 - Quatorzième circonscription électorale
+(Bassila, Copargo, Ouaké) nombre de siège : 02
+
+15 - Quinzième circonscription électorale
+(Du 1er au 6ème arrondissement de Cotonou) nombre de siège : 03
+
+16 - Seizième circonscription électorale
+(Du 7ème au 13ème arrondissement de Cotonou) nombre de siège : 04
+
+17- Dix-septième circonscription électorale
+(Athiémé, Comé, Grand-Popo) nombre de siège : 02
+
+18 - Dix-huitième circonscription électorale
+(Bopa, Lokossa, Houéyogbé) nombre de siège : 03
+
+19 - Dix-neuvième circonscription électorale
+(Adjarra, Aguégués, Porto-Novo, Sèmè-Kpodji) nombre de siège : 05
+
+20 - Vingtième circonscription électorale
+(Adjohoun, Akpro-Missérété, Avrankou, Bonou, Dangbo) nombre de siège : 05
+
+21- Vingt-et-unième circonscription électorale
+(Adja-Ouèrè, Ifangni, Sakété) nombre de siège : 03
+
+22 - Vingt-deuxième circonscription électorale
+(Kétou, Pobè). Nombre de siège : 02
+
+23 - Vingt-troisième circonscription électorale
+(Abomey, Agbangnizoun, Bohicon, Djidja) nombre de siège : 04
+
+24- Vingt-quatrième circonscription électorale
+(Covè, Ouinhi, Zagnanado, Za-Kpota, Zogbodomey) nombre de siège : 04.
+
+Cette première attribution des sièges s'effectue selon le système du quotient
+électoral : le nombre de suffrages valablement exprimés est divisé par le nombre de
+sièges à pourvoir pour obtenir le quotient électoral de la circonscription électorale.
+
+Le nombre de voix obtenues par chaque liste est divisé par ce quotient
+électoral et le résultat donne le nombre de sièges à attribuer à la liste.
+
+Les sièges restants sont attribués selon la règle de la plus forte moyenne.
+
+[page14]

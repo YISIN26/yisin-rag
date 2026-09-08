@@ -1,0 +1,20 @@
+TABLEAU J
+
+EXECUTION DU BUDGET DE LA CAISSE AUTONOME D'AMORTISSEMENT,
+GESTION 2006
+
+(RECETTES)
+
+(EN MILLIONS DE FRANCS CFA)
+
+RUBRIQUES                                  PREVISIONS     REALISATIONS
+                                                          MONTANT       TAUX
+
+1 Prêts rétrocédés                           6 940         1 348        19,42%
+2 Bonifications prêts                            0             0            -
+3 Commissions d'Aval                             0             0            -
+4 Loyers                                         5             0         0,00%
+5 Ressources exceptionnelles du budget           0             0            -
+6 Divers                                         0             0            -
+
+TOTAL GENERAL                                6 945         1 348        19,41%

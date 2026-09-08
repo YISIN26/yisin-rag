@@ -1,0 +1,37 @@
+Article 185. - Les tarifs réglementés sont fixés par décret pris sur proposition du Ministre chargé des postes et des télécommunications.
+
+Article 186. - Les opérateurs de télécommunications sont tenus de respecter les tarifs réglementés.
+
+CHAPITRE VI
+
+CONFIDENTIALITÉ ET SÉCURITÉ
+
+Article 187. - Les opérateurs de télécommunications sont tenus de garantir la confidentialité des communications et des données des utilisateurs.
+
+Article 188. - Les opérateurs de télécommunications sont tenus de mettre en œuvre des mesures de sécurité pour protéger les communications et les données des utilisateurs.
+
+Article 189. - Les opérateurs de télécommunications sont tenus de respecter les dispositions légales et réglementaires relatives à la protection des données personnelles.
+
+Article 190. - Les opérateurs de télécommunications ne peuvent divulguer les informations relatives aux utilisateurs qu'avec leur consentement ou sur décision d'une autorité judiciaire.
+
+Article 191. - Les opérateurs de télécommunications sont tenus de conserver les données des utilisateurs pendant une durée fixée par décret.
+
+Article 192. - Les opérateurs de télécommunications sont tenus de détruire les données des utilisateurs à l'expiration de la durée de conservation prévue à l'article 191.
+
+Article 193. - Les opérateurs de télécommunications sont tenus de notifier à l'ARTP toute violation de la confidentialité ou de la sécurité des données des utilisateurs.
+
+Article 194. - L'ARTP peut infliger des sanctions aux opérateurs de télécommunications qui ne respectent pas les obligations de confidentialité et de sécurité.
+
+Article 195. - Les sanctions prévues à l'article 194 sont :
+
+1° l'avertissement ;
+
+2° le blâme ;
+
+3° la mise en demeure ;
+
+4° la suspension de la licence ;
+
+5° le retrait de la licence ;
+
+6° l'amende.

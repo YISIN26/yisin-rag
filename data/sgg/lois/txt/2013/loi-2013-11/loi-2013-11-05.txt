@@ -1,0 +1,38 @@
+TABLEAU C
+
+EXECUTION DU BUDGET DES INSTITUTIONS ET MINISTERES, GESTION 2006
+
+RECETTES
+
+(EN MILLIONS DE FRANCS CFA)
+
+RUBRIQUES                                  PREVISIONS     REALISATIONS
+                                                          MONTANT       TAUX
+
+1 Recettes fiscales                         376 343        385 805       102,51
+
+2 Recettes non fiscales                     214 032         86 075        40,22
+
+3 BIAC                                          773             0         0,00
+
+TOTAL :                                     591 148        471 880        79,82
+
+
+TABLEAU D
+
+EXECUTION DU BUDGET DES INSTITUTIONS ET MINISTERES, GESTION 2006
+
+DEPENSES
+
+(EN MILLIONS DE FRANCS CFA)
+
+RUBRIQUES                                  PREVISIONS     REALISATIONS
+                                                          MONTANT       TAUX
+
+1 Dépenses ordinaires hors arriérés         364 479        (*) 321 911    88,32
+
+2 Dépenses en capital                       224 242         106 156       47,34
+
+TOTAL :                                     588 721        428 067        72,71
+
+(*) Non compris le montant de 11.130 millions de francs CFA représentant la « Variation nette des arriérés »

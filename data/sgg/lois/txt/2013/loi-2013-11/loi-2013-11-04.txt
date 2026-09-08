@@ -1,0 +1,33 @@
+TABLEAU A
+
+EXECUTION DE LA LOI DE FINANCES RECTIFICATIVE, GESTION 2006
+
+RECETTES
+
+(EN MILLIONS DE FRANCS CFA)
+
+DESIGNATION DES RECETTES                      PREVISIONS     REALISATIONS
+                                                             MONTANT       TAUX
+
+A - RECETTES FISCALES                          376 343       385 805       102,51
+
+1 Recettes des Administrations financières     376 343       385 805       102,51
+
+Total A                                        376 343       385 805       102,51
+
+
+B - RECETTES NON FISCALES                      214 032        86 075        40,22
+
+1 Recettes des Administrations financières       773             0         0,00
+2 Budget d'Investissement de l'Adminis-
+  tration Centrale                            15 009        10 969        73,08
+3 Budget du F.N.R.B.                            6 945         1 724        65,74
+4 Budget de la C.A.A.                           2 508         1 348            -
+5 Budget du Fonds Routier                       2 331         4 050       100,00
+6 Compte d'affectation spéciale                   36            36            -
+7 Opérations à caractère temporaire               -             -         43,12
+
+Total B                                        241 634       104 202        43,12
+
+
+TOTAL GENERAL (A + B)                          617 977       490 007        79,29

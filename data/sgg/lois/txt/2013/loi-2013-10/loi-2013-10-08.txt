@@ -1,0 +1,39 @@
+TABLEAU L
+
+SITUATION DES CREDITS A ANNULER OU A REPORTER ET DES OUVERTURES DE CREDITS
+COMPLEMENTAIRES, GESTION 2005
+
+SECTEURS       CREDITS              REPORTS DE      TOTAL CREDITS   CREDITS       CLOTURE         X
+               INITIAUX             CREDITS UTILES  OUVERTS        CLOTURE       COMPLEMENTAIRES
+
+10             5 233 à 7 mm         -               5 632 à 7 mm    -             -                -
+
+11             772 à 8 mm           -               707 à 8 mm      2 099 à 1 123  396 1 561 123   -
+
+12             1 429 à 2 mm         -               1 429 à 9 mm    -             -                -
+
+13             912 à 32 mm          -               912 à 11 975    -             9 922 455       9 922 455
+
+14             1 357 à 3 mm         -               2 287 à 7 3 017 1  -          11 915 777      11 915 777
+
+15             393 à 345 mm         -               393 à 496 mm    -             93 370 795      93 370 795
+
+20             5 165 à 345 mm       -               5 564 à 285 855 -             93 370 795      93 370 795
+
+21             23 277 à 395 mm      1 573 à 1 639   25 381 à 192 414 -            -                -
+
+22             16 955 à 2 mm        4 574 469       16 515 à 301 691 8 818 237    8 818 237       -
+
+23             12 353 à 16 mm       -               12 516 à 160 1 000 -           -                -
+
+24             15 541 à 17 mm       22 400 734 0    15 813 à 374 489 396 293 461   396 293 461    -
+
+25             5 316 à 1 mm         83 316 215      5 318 à 326 555 24 911 299    24 911 299      -
+
+26             5 739 à 1 mm         -               4 778 à 739 956 -             -                -
+
+27             -                    -               8 914 à 4 1 4 mm -            -                -
+
+28             3 832 à 4 mm         -               8 944 à 4 1 4 mm -            -                -
+
+29             8 3 à 4 mm           -               -               -             -                -

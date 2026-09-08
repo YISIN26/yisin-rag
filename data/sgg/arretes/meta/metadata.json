@@ -1,0 +1,26 @@
+{
+  "source": "sgg.gouv.bj",
+  "categorie": "arrêtés présidentiels",
+  "raw_dir": "/raw/sgg/arretes",
+  "date_scraping": "2026-08-28",
+  "documents": [
+    {
+      "id": "arrete-2018-002",
+      "numero": "N° 2018-002 du 25 avril 2018",
+      "date": "2018-04-25",
+      "titre": "fixant les modalités de gestion des stocks à la Présidence de la République.",
+      "url_source": "https://sgg.gouv.bj/doc/arrete-2018-002/",
+      "url_pdf": "https://sgg.gouv.bj/doc/arrete-2018-002/download",
+      "taille": "423 Ko"
+    },
+    {
+      "id": "arrete-2018-001",
+      "numero": "N° 2018-001 du 20 avril 2018",
+      "date": "2018-04-20",
+      "titre": "portant nomination des membres de la commission de réflexion sur la réforme du secteur de la pharmacie au Bénin.",
+      "url_source": "https://sgg.gouv.bj/doc/arrete-2018-001/",
+      "url_pdf": "https://sgg.gouv.bj/doc/arrete-2018-001/download",
+      "taille": "586 Ko"
+    }
+  ]
+}

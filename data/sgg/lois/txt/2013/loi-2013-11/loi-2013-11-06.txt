@@ -1,0 +1,44 @@
+TABLEAU F
+
+EXECUTION DES DEPENSES ORDINAIRES HORS ARRIERES, GESTION 2006
+
+(EN MILLIONS DE FRANCS CFA)
+
+RUBRIQUES                                          PREVISIONS     REALISATIONS
+                                                                   MONTANT       TAUX
+
+1 Dette publique                                    44 153         27 285        61,80%
+  - intérieure (arriérés sal. et non sal.)         9 662          1 180
+  - extérieure                                     34 491         26 105
+                                                   145 148        133 222       91,78%
+2 Dépenses de personnel                             95 090         73 863        77,65%
+3 Autres dépenses de fonctionnement                 92 288         76 956        83,39%
+4 Dépenses de transfert                                 -          14 656            -
+5 MP 3 et CD 2                                          -             51            -
+6 Frais de tenue de compte                              -          6 978            -
+7 Crédits délégués exécutés non intégrés
+  dans D-sigtip (imputation définitive)
+
+TOTAL GENERAL                                      376 680        (*) 333 041        88,42%
+
+(*) Y compris le montant de 11.130 millions de francs CFA représentant la « Variation nette des arriérés »
+
+
+TABLEAU G
+
+EXECUTION DES DEPENSES EN CAPITAL, GESTION 2006
+
+(EN MILLIONS DE FRANCS CFA)
+
+RUBRIQUES                                          PREVISIONS     REALISATIONS
+                                                                   MONTANT       TAUX
+
+I - DEPENSES SUR RESSOURCES INTERIEURES             94 963         48 855        51,45%
+
+  1 Administrations centrales                       94 190         48 855        51,87%
+
+  2 Collectivités locales et autres                    773             0         0,00%
+
+II - DEPENSES SUR RESSOURCES EXTERIEURES            129 279        57 301        44,32%
+
+TOTAL GENERAL                                       224 242        106 156        47,34%
