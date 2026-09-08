@@ -1,0 +1,26 @@
+{
+  "source": "sgg.gouv.bj",
+  "categorie": "decisions",
+  "raw_dir": "/raw/sgg/decisions",
+  "date_scraping": "2026-08-28",
+  "documents": [
+    {
+      "id": "decision-2022-338",
+      "numero": "Décision N° 2022-338",
+      "date": "08.07.2022",
+      "titre": "portant dissolution du Centre de Promotion de l'Artisanat et nomination de son liquidateur.",
+      "url_source": "https://sgg.gouv.bj/doc/decision-2022-338/",
+      "url_pdf": "https://sgg.gouv.bj/doc/decision-2022-338/download",
+      "taille": "645 Ko"
+    },
+    {
+      "id": "decision-2022-293",
+      "numero": "Décision N° 2022-293",
+      "date": "17.06.2022",
+      "titre": "portant création, attributions et composition de la Commission chargée de l'élaboration du cadre juridique de la chefferie traditionnelle en République du Bénin.",
+      "url_source": "https://sgg.gouv.bj/doc/decision-2022-293/",
+      "url_pdf": "https://sgg.gouv.bj/doc/decision-2022-293/download",
+      "taille": "1 Mo"
+    }
+  ]
+}

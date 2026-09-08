@@ -1,0 +1,116 @@
+{
+  "source": "sgg.gouv.bj",
+  "categorie": "accords",
+  "raw_dir": "/raw/sgg/accords",
+  "date_scraping": "2026-08-28",
+  "documents": [
+    {
+      "id": "accord-2025-578",
+      "numero": "N° 2025-578 du 24 sept. 2025",
+      "date": "02.10.2025",
+      "titre": "portant approbation des statuts de l'Agence de Développement de Sèmè City.",
+      "url_source": "https://sgg.gouv.bj/doc/accord-2025-578/",
+      "url_pdf": "https://sgg.gouv.bj/doc/accord-2025-578/download",
+      "taille": "10 Mo"
+    },
+    {
+      "id": "accord-2025-229",
+      "numero": "N° 2025-229 du 05 mai 2025",
+      "date": "12.05.2025",
+      "titre": "portant nomination de monsieur Adam PINTO en qualité de Directeur général de l'Agence pour la Construction des Infrastructures du Secteur de l'Education.",
+      "url_source": "https://sgg.gouv.bj/doc/accord-2025-229/",
+      "url_pdf": "https://sgg.gouv.bj/doc/accord-2025-229/download",
+      "taille": "1 Mo"
+    },
+    {
+      "id": "accord-2024-961",
+      "numero": "N° 2024-961 du 15 mai 2024",
+      "date": "24.05.2024",
+      "titre": "portant nomination au Ministère des sports.",
+      "url_source": "https://sgg.gouv.bj/doc/accord-2024-961/",
+      "url_pdf": "https://sgg.gouv.bj/doc/accord-2024-961/download",
+      "taille": "871 Ko"
+    },
+    {
+      "id": "accord-2023-026",
+      "numero": "N° 2023-026 du 25 janv. 2023",
+      "date": "09.02.2023",
+      "titre": "portant nomination de monsieur Urbain Thibauthéon Arron Sonagnon BRITO en qualité de Directeur de la Production halieutique au Ministère de l'Agriculture, de l’Élevage et de la Pêche.",
+      "url_source": "https://sgg.gouv.bj/doc/accord-2023-026/",
+      "url_pdf": "https://sgg.gouv.bj/doc/accord-2023-026/download",
+      "taille": "846 Ko"
+    },
+    {
+      "id": "accord-2022-27",
+      "numero": "N° 2022-27 du 07 déc. 2022",
+      "date": "17.01.2023",
+      "titre": "portant ratification des protocoles portant amendement de la convention relative à l'aviation civile internationale [article 50 a] et [article 56 a] , signés à Montréal, le 6 octobre 2016.",
+      "url_source": "https://sgg.gouv.bj/doc/accord-2022-27/",
+      "url_pdf": "https://sgg.gouv.bj/doc/accord-2022-27/download",
+      "taille": "152 Ko"
+    },
+    {
+      "id": "accord-2022-658",
+      "numero": "N° 2022-658 du 23 nov. 2022",
+      "date": "23.12.2022",
+      "titre": "portant création, composition attributions et fonctionnement et comité national d'attribution des logements sociaux et économiques.",
+      "url_source": "https://sgg.gouv.bj/doc/accord-2022-658/",
+      "url_pdf": "https://sgg.gouv.bj/doc/accord-2022-658/download",
+      "taille": "2 Mo"
+    },
+    {
+      "id": "accord-2022-361",
+      "numero": "N° 2022-361 du 29 juin 2022",
+      "date": "18.07.2022",
+      "titre": "portant transmission à l'Assemblée nationale du projet de loi règlement définitif du budget de l’État, gestion 2019.",
+      "url_source": "https://sgg.gouv.bj/doc/accord-2022-361/",
+      "url_pdf": "https://sgg.gouv.bj/doc/accord-2022-361/download",
+      "taille": "5 Mo"
+    },
+    {
+      "id": "accord-2022-324",
+      "numero": "N° 2022-324 du 01 juin 2022",
+      "date": "23.06.2022",
+      "titre": "portant création de l'Agence des Système d'Information et du Numérique, par la fusion de l'Agence du Développement du Numérique, de l'Agence des Services et Systèmes d'Information, de l'Agence nationale de la Sécurité des Systèmes d'Information et de l'Agence béninoise du Service universel des communications électroniques et de la Poste et approbation de ses statuts.",
+      "url_source": "https://sgg.gouv.bj/doc/accord-2022-324/",
+      "url_pdf": "https://sgg.gouv.bj/doc/accord-2022-324/download",
+      "taille": "5 Mo"
+    },
+    {
+      "id": "accord-2021-162",
+      "numero": "N° 2021-162 du 24 mars 2021",
+      "date": "15.06.2021",
+      "titre": "portant nomination des membres de l'Autorité de régulation de la Zone économique spéciale de Glo-Djigbé.",
+      "url_source": "https://sgg.gouv.bj/doc/accord-2021-162/",
+      "url_pdf": "https://sgg.gouv.bj/doc/accord-2021-162/download",
+      "taille": "803 Ko"
+    },
+    {
+      "id": "accord-2020-378",
+      "numero": "N° 2020-378 du 24 juil. 2020",
+      "date": "08.09.2020",
+      "titre": "portant nominations à titre normal et civil dans l’Ordre du Mérite Social.",
+      "url_source": "https://sgg.gouv.bj/doc/accord-2020-378/",
+      "url_pdf": "https://sgg.gouv.bj/doc/accord-2020-378/download",
+      "taille": "579 Ko"
+    },
+    {
+      "id": "accord-2019-230",
+      "numero": "N° 2019-230 du 31 juil. 2019",
+      "date": "31.01.2020",
+      "titre": "portant nomination des commissaires aux comptes titulaire et suppléant près l'Agence Foncière de l'Habitat.",
+      "url_source": "https://sgg.gouv.bj/doc/accord-2019-230/",
+      "url_pdf": "https://sgg.gouv.bj/doc/accord-2019-230/download",
+      "taille": "515 Ko"
+    },
+    {
+      "id": "accord-2023-150",
+      "numero": "N° 2023-150 du 10 déc. 23",
+      "date": "02.06.2023",
+      "titre": "portant attributions, organisation et fonctionnement du Ministère de l'Enseignement Supérieur et de la Recherche Scientifique.",
+      "url_source": "https://sgg.gouv.bj/doc/accord-2023-150/",
+      "url_pdf": "https://sgg.gouv.bj/doc/accord-2023-150/download",
+      "taille": "6 Mo"
+    }
+  ]
+}

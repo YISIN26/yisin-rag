@@ -1,0 +1,11 @@
+[2026-09-04 22:01:00] INFO - Début du téléchargement
+[2026-09-04 22:01:01] SKIP - decision-2022-338.pdf (645 Ko) - déjà présent
+[2026-09-04 22:01:02] SKIP - decision-2022-293.pdf (1 Mo) - déjà présent
+[2026-09-04 22:01:03] Résumé: 0 OK, 0 ERROR, 2 SKIP sur 2 total
+[2026-09-04 22:01:04] INFO - Fin du téléchargement
+[2026-09-04 22:17:37] OK - decision-2022-338.pdf (645 Ko) - téléchargé (0.6 Mo)
+[2026-09-04 22:17:41] OK - decision-2022-293.pdf (1 Mo) - téléchargé (1.0 Mo)
+[2026-09-04 22:17:41] Résumé: 2 OK, 0 ERROR, 0 SKIP sur 2 total
+[2026-09-04 22:24:38] OK - decision-2022-338.pdf (645 Ko) - téléchargé (0.6 Mo)
+[2026-09-04 22:24:39] OK - decision-2022-293.pdf (1 Mo) - téléchargé (1.0 Mo)
+[2026-09-04 22:24:39] Résumé: 2 OK, 0 ERROR, 0 SKIP sur 2 total
